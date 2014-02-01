@@ -42,25 +42,25 @@ tr:nth-child(odd)
 }
 .col2
 {
-    width:100px;
+    width:80px;
 }
 .flag-Germany
 {
-    background-image:url('../Images/flag_germany.gif');
+    background-image:url('../images/flag_germany.gif');
     background-repeat: no-repeat;
     background-position: 5% 50%;
     padding-left: 26px;
 }
 .flag-Mexico
 {
-    background-image:url('../Images/flag-mexico.gif');
+    background-image:url('../images/flag-mexico.gif');
     background-repeat: no-repeat;
     background-position: 5% 50%;
     padding-left: 26px;
 }
 .flag-UK
 {
-    background-image:url('../Images/flag_uk.gif');
+    background-image:url('../images/flag_uk.gif');
     background-repeat: no-repeat;
     background-position: 5% 50%;
     padding-left: 26px;

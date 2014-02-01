@@ -1,0 +1,10 @@
+﻿li > ul {
+    display: none;
+}
+li:hover > ul{
+    display: block;
+}
+
+a {
+   text-decoration: underline;
+}

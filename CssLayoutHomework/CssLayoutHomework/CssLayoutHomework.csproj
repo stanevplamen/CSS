@@ -7,12 +7,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{D6ADF007-A1A9-4745-A7B8-34FE7670D68F}</ProjectGuid>
+    <ProjectGuid>{59127A49-5E1C-4181-9886-00CAA2C4D368}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Task04Calculator</RootNamespace>
-    <AssemblyName>Task04Calculator</AssemblyName>
+    <RootNamespace>CssLayoutHomework</RootNamespace>
+    <AssemblyName>CssLayoutHomework</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
@@ -57,8 +57,29 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="index.html" />
-    <Content Include="style.css" />
+    <Content Include="01TreeView\index.html" />
+    <Content Include="01TreeView\style.css" />
+    <Content Include="02MusicPage\images\category-1.png" />
+    <Content Include="02MusicPage\images\category-2.png" />
+    <Content Include="02MusicPage\images\category-3.png" />
+    <Content Include="02MusicPage\index.html" />
+    <Content Include="02MusicPage\style.css" />
+    <Content Include="03LogPage\images\go-button.png" />
+    <Content Include="03LogPage\images\monitor.png" />
+    <Content Include="03LogPage\index.html" />
+    <Content Include="03LogPage\style.css" />
+    <Content Include="04SitePage\images\arrowLeft.png" />
+    <Content Include="04SitePage\images\arrowRight.png" />
+    <Content Include="04SitePage\images\bgButton25Style.png" />
+    <Content Include="04SitePage\images\css.png" />
+    <Content Include="04SitePage\index.html" />
+    <Content Include="04SitePage\style.css" />
+    <Content Include="05ShopPage\images\mac.png" />
+    <Content Include="05ShopPage\index.html" />
+    <Content Include="05ShopPage\style.css" />
+    <Content Include="06NewsPage\images\picture.png" />
+    <Content Include="06NewsPage\index.html" />
+    <Content Include="06NewsPage\style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -72,6 +93,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
@@ -87,7 +109,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>0</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:48784/</IISUrl>
+          <IISUrl>http://localhost:25733/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

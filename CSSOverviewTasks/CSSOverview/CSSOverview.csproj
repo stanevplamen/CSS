@@ -59,9 +59,9 @@
   <ItemGroup>
     <Content Include="01\SimpleTable.html" />
     <Content Include="01\style\SimpleTableStyle.css" />
-    <Content Include="02\Images\flag-mexico.gif" />
-    <Content Include="02\Images\flag_germany.gif" />
-    <Content Include="02\Images\flag_uk.gif" />
+    <Content Include="02\images\flag-mexico.gif" />
+    <Content Include="02\images\flag_germany.gif" />
+    <Content Include="02\images\flag_uk.gif" />
     <Content Include="02\SimpleCountries.html" />
     <Content Include="02\style\SimpleCountriesStyle.css" />
     <Content Include="03\IndexPage.html" />

@@ -1,0 +1,47 @@
+﻿body {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+}
+
+
+#general {
+    background-color:darkgray;
+    color: black;
+    width: 650px;
+    height: 410px;
+    float:initial;
+    margin: 0 auto;
+}
+
+li {
+    color: #fff;
+    list-style-type: none;
+    padding: 5px;
+    float: left;
+    font-size: 22px;
+}
+
+#login {
+    background-color: #323232;
+    padding-bottom: 60px;
+}
+
+#content {
+    padding-left: 20px;
+    clear: both;
+    width: 500px;
+}
+
+span {
+    color: #dcdcdc;
+}
+
+h1 {
+    color: #ffdc18;
+    font-weight: normal;
+}
+
+#btnLogin {
+    padding-top: 6px;
+}
